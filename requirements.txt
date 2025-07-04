@@ -1,0 +1,5 @@
+PyQt5==5.15.9
+requests==2.31.0
+pyautogui==0.9.54
+keyboard==0.13.5
+python-dotenv==1.0.0
