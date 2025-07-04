@@ -28,8 +28,6 @@ class AutoStartUtil:
 
     def _create_set_autostart_bat(self):
         """创建设置自启动的BAT文件"""
-        # 转义路径中的反斜杠
-        escaped_path = self.app_path.replace('\\', '\\\\')
 
         content = f'''@echo off
 :: 检查管理员权限
