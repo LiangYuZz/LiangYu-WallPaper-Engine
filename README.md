@@ -50,10 +50,10 @@ LiangYuPaperMaster 是一个基于 Python 的桌面壁纸管理项目，借助 P
 ## 项目依赖
 项目依赖记录在 `requirements.txt` 文件中，具体如下：
 ```plaintext
-PyQt5==5.15.9
+PyQt5
 requests==2.31.0
-pyautogui==0.9.54
-keyboard==0.13.5
+pyautogui
+keyboard
 python-dotenv==1.0.0
 ```
 
